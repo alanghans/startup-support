@@ -1,4 +1,4 @@
-startup-support
+Startup Support
 ===============
 
-Support issues for Startup Framework customers.
+Support issues tracker for Startup Framework customers.
